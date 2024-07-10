@@ -17,7 +17,9 @@
 
 ## Jelly Bean components 
 Board designed to allow manufacture of simple but capable wifi enabled robotics controller from most common avaliable components.
+
 <img src="https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/870d1798-7d06-496b-857a-838cff4b0baf" alt="drawing" class="center" width="600"/>
+
 ## Universal footprints
 Board is designed to handle multiple packages of same components:
 <img src="https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/e16e0b2b-58ce-4670-914a-09cb1b465ec5" alt="drawing" class="center" width="600"/>
@@ -114,7 +116,7 @@ Integrated easy to solder BMS module footprint (HW341)
 |Random THT diode| unknown| 4007 compatible|8
 |LED| random color| 5mm THT |3
 
-## PCB mounted on simple moving robot
+## PCB mounted on simple mobile robot
 ![IMG_0362](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/4bbba17c-744e-43c4-b807-a25a3b7f5d0e)
 ![IMG_0365](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/fa5a6c7f-f3f3-4ea1-a3cd-ba3d0b119b93)
 
