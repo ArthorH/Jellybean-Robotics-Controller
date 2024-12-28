@@ -1,7 +1,8 @@
 # ESP8266 Multipurpose robotics controller 
  made from certified jellybean components!
  
-![ANGRY_JELLO](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/7de418ee-ddb1-43e5-bd05-e77bc901d56c)
+![obraz](https://github.com/user-attachments/assets/ed6f8e22-a6a1-42fc-a32d-e3226635e453)
+
 
 
 
