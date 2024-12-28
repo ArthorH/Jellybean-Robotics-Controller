@@ -3,10 +3,9 @@
  
 ![obraz](https://github.com/user-attachments/assets/ed6f8e22-a6a1-42fc-a32d-e3226635e453)
 
+![obraz](https://github.com/user-attachments/assets/fad02828-973a-4a41-ade7-0df284745e63)
 
 
-
-![Boards in different configuration](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/a95e0b77-833b-45b5-ba12-bc03fe4b9c9f)
 
 ## Features
 - Jelly Bean Components
@@ -16,6 +15,7 @@
 - Battery voltage measurement
 - Integrated easy to solder BMS module footprint (HW341)
 
+![Boards in different configuration](https://github.com/ArthorH/ESP8266_JELLYBEAN_CONTROLLER/assets/101933781/a95e0b77-833b-45b5-ba12-bc03fe4b9c9f)
 ## Jelly Bean components 
 Board designed to allow manufacture of simple but capable wifi enabled robotics controller from most common avaliable components.
 
